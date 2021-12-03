@@ -1,0 +1,6 @@
+[wrap-git]
+url = https://gitlab.com/ninjaoflight5/terminalpp.git
+revision = head
+
+[provide]
+terminalpp = terminalpp_dep
