@@ -1,3 +1,5 @@
-# Terminal++
+# BlackJack UNA
 
-Ejemplo de librería para el manejo de terminal. usando meson.
+
+
+
